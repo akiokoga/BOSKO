@@ -15,3 +15,8 @@ RM88429 Karen Cristhine Silva Lima
 
 ## Resumo da aplicação:
 EXPLICAÇÃO BREVE DO PROJETO.docx
+
+## LINK do vídeo:
+https://youtu.be/W4gmOw53R9A
+### LINK Alternativo: 
+https://www.youtube.com/watch?v=W4gmOw53R9A&feature=youtu.be
