@@ -17,6 +17,6 @@ RM88429 Karen Cristhine Silva Lima
 EXPLICAÇÃO BREVE DO PROJETO.docx
 
 ## LINK do vídeo:
-https://youtu.be/W4gmOw53R9A
+https://youtu.be/PoXofOr0hDc
 ### LINK Alternativo: 
-https://www.youtube.com/watch?v=W4gmOw53R9A&feature=youtu.be
+https://www.youtube.com/watch?v=PoXofOr0hDc&feature=youtu.be
